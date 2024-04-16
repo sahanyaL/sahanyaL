@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahanyaL](https://github.com/sahanyaL)
+- 👨‍💻 my portfolio [https://piyumdi.online/](https://piyumdi.online/)
+
 
 - 📫 How to reach me **lpiyumdi@gmail.com**
 
