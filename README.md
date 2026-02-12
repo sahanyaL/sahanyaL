@@ -10,7 +10,7 @@
           <li>🕹️ Passionate about <b>Game Development</b> with Unity & C#</li>
           <li>⚙️ Currently focusing on <b>Backend Development</b> (FastAPI & PostgreSQL)</li>
           <li>👨‍💻 Projects: <a href="https://github.com/sahanyaL">github.com/sahanyaL</a></li>
-          <li>🌐 Portfolio: <a href="https://piyumdi.online/">piyumdi.online</a></li>
+          <li>🌐 Portfolio: <a href="https://portfolio-piyumdi.vercel.app/">piyumdi.vercel.app</a></li>
           <li>📫 Email: <b>lpiyumdi@gmail.com</b></li>
         </ul>
       </p>
