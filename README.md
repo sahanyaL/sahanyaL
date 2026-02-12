@@ -1,16 +1,25 @@
 <h1 align="center">Hi 👋, I'm Piyumdi Liyanage</h1>
 <h3 align="center">Software Engineering Undergraduate & Game Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp">
-
-<p align="left">
-- 🎓 4th Year Software Engineering Student
-- 🕹️ Passionate about **Game Development** with Unity & C#
-- ⚙️ Currently focusing on **Backend Development** (FastAPI & PostgreSQL)
-- 👨‍💻 All of my projects are available at [github.com/sahanyaL](https://github.com/sahanyaL)
-- 🌐 Visit my portfolio: [https://portfolio-piyumdi.vercel.app/](https://portfolio-piyumdi.vercel.app/)
-- 📫 Reach me at: **lpiyumdi@gmail.com**
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <p align="left">
+        <ul>
+          <li>🎓 4th Year Software Engineering Student</li>
+          <li>🕹️ Passionate about <b>Game Development</b> with Unity & C#</li>
+          <li>⚙️ Currently focusing on <b>Backend Development</b> (FastAPI & PostgreSQL)</li>
+          <li>👨‍💻 Projects: <a href="https://github.com/sahanyaL">github.com/sahanyaL</a></li>
+          <li>🌐 Portfolio: <a href="https://piyumdi.online/">piyumdi.online</a></li>
+          <li>📫 Email: <b>lpiyumdi@gmail.com</b></li>
+        </ul>
+      </p>
+    </td>
+    <td>
+      <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp">
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
